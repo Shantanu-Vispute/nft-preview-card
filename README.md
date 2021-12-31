@@ -1,5 +1,7 @@
 # NFT preview Card 🚀
 
+Live Demo: (https://shantanu-vispute.github.io/nft-preview-card/)
+
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 <h3 align="left">Languages and Tools:</h3>
